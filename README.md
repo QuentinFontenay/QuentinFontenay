@@ -1,11 +1,10 @@
 # Hi, I'm Quentin 👋🏻 🧑🏻‍💻
 
 <img src="https://zupimages.net/up/21/46/lepx.png" alt="banner that says Quentin Fontenay - developer fullstack">
-I'm a fullstack developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and PostgreSQL.
-
+I'm a fullstack developer who is passionate about creating technology to elevate people.I enjoy working in a dynamic and stimulating environment. I strive to be a team player and maintain a positive attitude when faced with new challenges. My greatest strengths are my ability to think outside the box, my desire to learn and grow, and my attention to detail. I love to learn and I believe that in order to be successful in the long run, one must always be learning.
 
 ## Find me around the web 🌎:
-- Learning in public on <a href="https://quentin-fontenay.fr/">quentin.dev</a> 📹 ✍🏾
+- Learning in public on <a href="https://quentin-fontenay.fr/">quentin.dev</a> ✍🏻
 - Sharing updates on <a href="https://www.linkedin.com/in/quentinfontenay/">LinkedIn</a> 💼
 
 <br/>  
