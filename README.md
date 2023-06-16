@@ -6,6 +6,7 @@ I'm a fullstack developer who is passionate about creating technology to elevate
 ## Find me around the web 🌎:
 - Learning in public on <a href="https://quentin-fontenay.fr/">quentin.dev</a> ✍🏻
 - Sharing updates on <a href="https://www.linkedin.com/in/quentinfontenay/">LinkedIn</a> 💼
+- My SAAS on <a href="https://www.releasesnotes.dev">ReleasesNotes</a> 📝
 
 <br/>  
 
